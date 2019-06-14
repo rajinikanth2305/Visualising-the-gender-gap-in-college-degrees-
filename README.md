@@ -13,3 +13,8 @@ Randal Olson, a data scientist at University of Pennsylvania, has cleaned the da
 
 ![Capture](https://user-images.githubusercontent.com/44217560/59480393-12909700-8e7e-11e9-9002-f52aded1d66d.PNG)
 
+Randal compiled this data set to explore the gender gap in STEM fields, which stands for science, technology, engineering, and mathematics. This gap is reported on often [in the news](https://www.google.com/search?hl=en&gl=us&tbm=nws&authuser=0&q=gender+gap+stem&oq=gender+gap+stem&gs_l=news) and [not everyone agrees](http://www.pbs.org/newshour/making-sense/truth-women-stem-careers/) that there is a gap.
+
+
+
+
